@@ -1,0 +1,1 @@
+This React Native code uses the deprecated `componentWillMount` lifecycle method which can lead to unexpected behavior and errors.  The componentDidMount method should be used instead.  The example code shows the incorrect implementation using `componentWillMount`.
